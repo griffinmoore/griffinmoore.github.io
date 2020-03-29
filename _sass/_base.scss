@@ -21,7 +21,7 @@ html {
   line-height: $root-line-height;
 
   @media (min-width: $large-breakpoint) {
-    // font-size: $large-font-size;
+    font-size: $large-font-size;
   }
 }
 
@@ -51,8 +51,7 @@ a {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
-  border-radius: 5px;
+  margin: 0 0 2rem;
 }
 
 table {
