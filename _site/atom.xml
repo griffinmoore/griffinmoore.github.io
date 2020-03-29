@@ -4,7 +4,7 @@
  <title>Folkhouse</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-03-29T18:22:49-04:00</updated>
+ <updated>2020-03-29T19:34:20-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Griffin Moore</name>
@@ -13,26 +13,17 @@
 
  
  <entry>
-   <title>Visit to Earthship Biotecture</title>
-   <link href="http://localhost:4000/2020/03/29/earthship-biotecture/"/>
-   <updated>2020-03-29T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/03/29/earthship-biotecture</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/earthship.jpg&quot; alt=&quot;Earthship Biotecture in Taos, New Mexico&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Recently visited &lt;a href=&quot;google.com&quot;&gt;Earthship Biotecture&lt;/a&gt; in Taos, New Mexico&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Introduction</title>
-   <link href="http://localhost:4000/2020/03/28/introduction/"/>
-   <updated>2020-03-28T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/03/28/introduction</id>
-   <content type="html">&lt;p&gt;My name is Griffin. I currently live in Brooklyn, New York and work remotely as a user-interface designer for a company in California. I’ve created this blog to log different things I am reading and thinking about as I consider a next stage in my life.&lt;/p&gt;
+   <link href="http://localhost:4000/2020/03/29/introduction/"/>
+   <updated>2020-03-29T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2020/03/29/introduction</id>
+   <content type="html">&lt;p&gt;My name is Griffin Moore. I currently live in Brooklyn, New York and work remotely as a user-interface designer for a company in California. I’ve created this blog to log different things I am studying and thinking about as I consider a next stage in my life.&lt;/p&gt;
 
 &lt;p&gt;In particular I hope to share findings in the subjects of designing shelter, decentralism and degrowth, and the pursuit of self-sufficiency. Living off-grid has been a personal interest of mine since my early 20s (now 31 years old). I’ve done a fair bit of reading on the subject, but living in New York City has prevented me from accruing any actual experience.&lt;/p&gt;
 
-&lt;p&gt;I am writing this during the COVID-19 pandemic which has essentially put the planet on lockdown. This development has reinforced for me the critical importance of self-reliance– a concept we in the United States and in similar nations have moved dangerously far from. Perhaps not entirely by our own design, but through the coercive force of industrialization.&lt;/p&gt;
+&lt;p&gt;I am writing this during the COVID-19 pandemic which has essentially put the planet on lockdown. This development has reinforced for me the critical importance of self-reliance– a concept we in the United States and in similar nations have moved dangerously far from. Perhaps not entirely by our own design, but spurred on by the coercive force of industrialization.&lt;/p&gt;
+
+&lt;p&gt;Well, this is only an introduction, so I will end here for now.&lt;/p&gt;
 </content>
  </entry>
  
