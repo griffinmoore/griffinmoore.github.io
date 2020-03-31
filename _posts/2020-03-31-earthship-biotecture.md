@@ -15,7 +15,7 @@ An Earthship has one wall of windows and three walls of earth-packed tires enclo
 
 Water is captured from the roof and used several times: first by showers and sinks, then indoor plants, then to toilets for flushing. Lastly, in the septic tank, anaerobic digestion enables the water's use in external planters– though not for edible plants due to E. coli risk. One slight annoyance was the sound of the water pumps. As our unit was a tiny house, all the systems were at any moment just an arm's-length away. May not be an issue in a larger unit.
 
-![Earthship Interior]({{ site.url }}/assets/images/earthship-interior.jpg)
+<img src="{{ site.url }}/assets/images/earthship-interior-1.jpg" style="display:inline-block; width: 47%; margin-bottom: 0; margin-right: 6%; height: auto;"><img src="{{ site.url }}/assets/images/earthship-interior-2.jpg" style="display: inline-block; width: 47%; margin-bottom: 0; height: auto;">
 
 Overall, we loved staying in the Earthship. I think especially in the context of the current pandemic, it felt like a refuge. It was very thoughtfully designed and with the indoor greenhouse and sunlight, it truly felt alive.
 
