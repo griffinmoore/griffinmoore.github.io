@@ -36,6 +36,7 @@ body {
 a {
   color: $link-color;
   text-decoration: none;
+  border-bottom: 1px solid $link-color;
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,

@@ -4,34 +4,9 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
   <article class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
+      Hello, my name is Griffin Moore. I am a UI designer working in Brooklyn, New York. I design typefaces as <a href="https://monolithfoundry.com">Monolith Foundry</a>. Here is my <a href="https://www.instagram.com/folk.house/">Instagram</a>. My email address is griffinmoore@gmail.com.
     </h1>
-
-    {{ post.content }}
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_long_string }}</time>
   </article>
-  {% endfor %}
 </div>
-
-<!-- pagination -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <span class="webjeda">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="/">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-</div>
-{% endif %}
