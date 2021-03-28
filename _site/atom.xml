@@ -4,63 +4,13 @@
  <title>Griffin Moore</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-02-11T19:15:04-05:00</updated>
+ <updated>2021-03-28T10:27:30-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Griffin Moore</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>Visit to Earthship Biotecture</title>
-   <link href="http://localhost:4000/2020/03/31/earthship-biotecture/"/>
-   <updated>2020-03-31T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/03/31/earthship-biotecture</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/earthship.jpg&quot; alt=&quot;Earthship Biotecture in Taos, New Mexico&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Earthship is a type of house built with natural and recycled materials with energy conservation in mind. It is designed to produce water, electricity, and food for its own use.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;My partner, María Elena, and I visited &lt;a href=&quot;https://www.earthshipglobal.com&quot;&gt;Earthship Biotecture&lt;/a&gt; in Taos, New Mexico about two weeks ago. Unfortunately we had just a day and a half there before COVID-19 urged our early return to New York, but it was still a great experience. We stayed in a &lt;a href=&quot;https://www.airbnb.com/rooms/22567280&quot;&gt;small recently-built studio-layout Earthship&lt;/a&gt; that can be rented out.&lt;/p&gt;
-
-&lt;p&gt;The drive from our previous stay in Santa Fe was quite barren so when we finally arrived alongside the Earthship community it felt surreal. We had seen the buildings online and on film, but seeing them firsthand felt markedly different. I’m not one for New Age aesthetics or the bohemian, crystal type stuff which Earthships can sometimes espouse, but in this strange desert context it seemed more acceptable. Still, I appreciated our rental being styled more traditionally!&lt;/p&gt;
-
-&lt;p&gt;An Earthship has one wall of windows and three walls of earth-packed tires enclosed in adobe or a similar material. The floor and walls act as thermal mass, storing solar heat entering throughout the day to be naturally released when the home’s air temperature falls. For our short stay, this seemed to work flawlessly. The temperature outside was below freezing overnight and I estimate the home was about 68°F when we woke up. This performance could also have been influenced by the fact that the unit is only 250 square feet, but it does seem feasible, at least in New Mexico, to live comfortably using passive solar in this way.&lt;/p&gt;
-
-&lt;p&gt;Water is captured from the roof and used several times: first by showers and sinks, then indoor plants, then to toilets for flushing. Lastly, in the septic tank, anaerobic digestion enables the water’s use in external planters– though not for edible plants due to E. coli risk. One slight annoyance was the sound of the water pumps. As our unit was a tiny house, all the systems were at any moment just an arm’s-length away. May not be an issue in a larger unit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/earthship-interior-1.jpg&quot; style=&quot;display:inline-block; width: 47%; margin-bottom: 0; margin-right: 6%; height: auto;&quot; /&gt;&lt;img src=&quot;http://localhost:4000/assets/images/earthship-interior-2.jpg&quot; style=&quot;display: inline-block; width: 47%; margin-bottom: 0; height: auto;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Overall, we loved staying in the Earthship. I think especially in the context of the current pandemic, it felt like a refuge. It was very thoughtfully designed and with the indoor greenhouse and sunlight, it truly felt alive.&lt;/p&gt;
-
-&lt;p&gt;Now, as a natural skeptic, I have encountered some &lt;a href=&quot;http://hackingtheearthship.blogspot.com/p/earthship-academic-research.html&quot;&gt;criticism&lt;/a&gt; of the Earthship design online. Some of the concerns include: potential tire off-gassing, overheating/underheating, poor ventilation in humid climates, and rain catchment not producing an adequate supply of water. In the visitor center, a person from the community &lt;em&gt;did&lt;/em&gt; state some residents have water shipped in on occasion and I believe they said some buildings used a well. Taos averages 13 inches of rain, about a third of the national average, and 37 inches of snow per year.&lt;/p&gt;
-
-&lt;p&gt;A concern of mine is the single entrance and single source of natural light. I just finished reading The &lt;a href=&quot;https://undergroundhousing.com/&quot;&gt;$50 and Up Underground House Book&lt;/a&gt; by Mike Oehler and appreciate his approach to bringing light into the structure and creating multiple entry/exit points. I plan to write a post on Oehler’s designs in the future.&lt;/p&gt;
-
-&lt;p&gt;But for any of the Earthship’s flaws, it is clear that the design gets many things right. And it seems to have permeated the mainstream consciousness in a way that other earth-shelters have not– something which is critically important.&lt;/p&gt;
-
-&lt;p&gt;I bought Earthship originator Michael Reynolds’ three volume book set last year, but haven’t gotten around to reading them yet. The books are actually &lt;a href=&quot;https://www.earthshipglobal.com/books&quot;&gt;on sale&lt;/a&gt; now for just $15 a piece– cheaper than I found them on eBay. I’d also recommend watching &lt;a href=&quot;http://www.garbagewarrior.com&quot;&gt;Garbage Warrior&lt;/a&gt; which documents Michael Reynolds’ quest to establish a legal test site for experimental shelter designs.&lt;/p&gt;
-
-&lt;p&gt;On the &lt;a href=&quot;https://www.earthshipglobal.com&quot;&gt;Earthship Biotecture&lt;/a&gt; website, they are now advertising webinars and I noticed one with a date to-be-decided in which Reynolds will address Earthship critiques, so I will try my best to attend that one and follow up here.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Introduction</title>
-   <link href="http://localhost:4000/2020/03/29/introduction/"/>
-   <updated>2020-03-29T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/03/29/introduction</id>
-   <content type="html">&lt;p&gt;My name is Griffin Moore. I currently live in Brooklyn, New York and work remotely as a user-interface designer for a software company. I’ve created this blog to log different things I am reading and thinking about as I consider the next stage in my life. I don’t expect any mass-appeal, but simply feel an urge to compile some of ideas I have come across over the years.&lt;/p&gt;
-
-&lt;p&gt;In particular I hope to post findings on the subjects of designing shelter, decentralism and degrowth, and the pursuit of self-sufficiency. Living off-grid has been a personal interest of mine since my early 20s (now 31 years old). I’ve done a fair bit of reading on the subject, but living in New York City has prevented me from accruing any actual experience. So I am just a student and that is the tone I wish to communicate.&lt;/p&gt;
-
-&lt;p&gt;I am writing this during the COVID-19 pandemic which has essentially put the planet on lockdown. This development has reinforced for me the critical importance of self-reliance– a concept we in the United States and in similar nations have moved dangerously far from. Perhaps not entirely by our own design, but spurred on by the coercive force of industrialization.&lt;/p&gt;
-
-&lt;p&gt;Of course, industrialization and standardization have afforded us several luxuries. It’s one thing to design an off-grid existence within an industrial society– benefitting from the incredible access to goods and services– but can the system be redesigned in a way to meet a good standard of comfort while respecting all people and planet? Undoubtedly it will require significant cultural change. How we source energy, how we eat, how we build, how we travel– practically every aspect of our lives is, in this moment, performed without adequate consideration of the whole. I suppose this is the lofty question I wish to consider here. How can we better design our society for the benefit of everyone?&lt;/p&gt;
-</content>
- </entry>
  
 
 </feed>
