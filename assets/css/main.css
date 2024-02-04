@@ -19,3 +19,14 @@ html {
   font-weight: 400;
   font-style: normal;
 }
+
+a {
+  @apply pb-1;
+  @apply border-b;
+  @apply border-gray-500;
+
+  &:hover {
+    @apply text-blue-500;
+    @apply border-blue-500;
+  }
+}
