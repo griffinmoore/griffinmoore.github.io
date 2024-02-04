@@ -58,7 +58,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 3.7.3)
+  jekyll (~> 3.7.4)
   jekyll-postcss
   webrick
 
