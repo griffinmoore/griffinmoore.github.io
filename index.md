@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="flex flex-col gap-6 sm:gap-10">
+  <div class="flex flex-col gap-6 sm:gap-10">
+    <p>Hello, my name is Griffin Moore. I am a Product Designer with 12 years of experience building straightforward and usable interfaces.</p>
+    <p>I am also experienced in front-end code, illustration, as well as icon and type design.</p>
+  </div>
+  <div class="bg-gray-100 px-10 py-10 rounded-md flex flex-col gap-6">
+    {% for image in site.static_files %}
+      {% if image.path contains 'images/delighted' %}
+        <img class="rounded shadow-sm" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
