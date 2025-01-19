@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['Range Mono']
+        'sans': ['basis-grotesque-medium']
       }
     },
   },
