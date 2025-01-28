@@ -10,31 +10,14 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #FFFFFF;
+  font-family: 'Visuelt';
+  @apply text-gray-700;
 }
-
 
 @font-face {
-  font-family: 'basis-grotesque-medium';
-  src: url('/assets/fonts/basis-grotesque-medium.woff2') format('woff2'),
-      url('/assets/fonts/basis-grotesque-medium.woff') format('woff'),
-      url('/assets/fonts/basis-grotesque-medium.ttf') format('truetype');
+  font-family: 'Visuelt';
+  src: url('/assets/fonts/visuelt-regular.woff2') format('woff2'),
+      url('/assets/fonts/visuelt-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-}
-
-a {
-  @apply pb-0.5;
-  @apply border-b-2;
-  @apply border-gray-500;
-
-  &:hover {
-    @apply text-blue-500;
-    @apply border-blue-500;
-  }
-}
-
-h2 {
-  font-family: "basis-grotesque-medium";
-  @apply uppercase;
-  @apply text-xl;
 }

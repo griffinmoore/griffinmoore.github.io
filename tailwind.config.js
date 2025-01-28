@@ -9,8 +9,11 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        'sans': ['basis-grotesque-medium']
+      colors: {
+        'blue-500': '#5276FA',
+        'blue-600': '#2448CC',
+        'gray-700': '#505050',
+        'gray-500': '#9D9D9D'
       }
     },
   },
