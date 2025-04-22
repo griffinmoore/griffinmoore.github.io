@@ -9,15 +9,15 @@ html {
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #FFFFFF;
-  font-family: 'Visuelt';
-  @apply text-gray-700;
+  background-color: #E7E0DA;
+  font-family: 'RangeMono';
+  @apply text-gray-800;
 }
 
 @font-face {
-  font-family: 'Visuelt';
-  src: url('/assets/fonts/visuelt-regular.woff2') format('woff2'),
-      url('/assets/fonts/visuelt-regular.woff') format('woff');
+  font-family: 'RangeMono';
+  src: url('/assets/fonts/RangeMono-Regular.woff2') format('woff2'),
+      url('/assets/fonts/RangeMono-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
