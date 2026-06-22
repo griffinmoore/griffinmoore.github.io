@@ -10,8 +10,24 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #E7E0DA;
-  font-family: 'RangeMono';
+  font-family: 'Meridian';
   @apply text-gray-800;
+}
+
+a {
+  @apply text-gray-500;
+
+  &:hover {
+    @apply text-gray-800;
+  }
+}
+
+@font-face {
+  font-family: 'Meridian';
+  src: url('/assets/fonts/Meridian-Regular.woff2') format('woff2'),
+      url('/assets/fonts/Meridian-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
